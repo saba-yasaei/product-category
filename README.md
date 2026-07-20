@@ -122,3 +122,4 @@ The database contains sample data created through the Django Admin interface:
 ## AI Usage
 
 Codex was used to generate tests in products/tests.py and the tests were reviewed and verified by me. 
+Codex auto code generation was used for HTML template. 
